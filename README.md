@@ -4,9 +4,8 @@
 
 当前版本：1.0.0.0
 
-# Unique-Code-Per-Device（Cross-platform）
-
-一机一码授权系统（跨平台）：代码请见 [GitHub](https://github.com/skyjkwy/Unique-Code-Per-Device)
+ Unique-Code-Per-Device（Cross-platform）
+一机一码授权系统（跨平台）：代码请见 [GitHub](https://github.com/skyjkwy/Unique-Code-Per-Device_Cross-platform)
 
 ## 功能概览
 
